@@ -1,0 +1,9 @@
+C:\Users\Karolek\Documents\Visual Studio 2017\Projects\BazaDanych\BazaDanych\bin\Debug\BazaDanych.exe.config
+C:\Users\Karolek\Documents\Visual Studio 2017\Projects\BazaDanych\BazaDanych\bin\Debug\BazaDanych.exe
+C:\Users\Karolek\Documents\Visual Studio 2017\Projects\BazaDanych\BazaDanych\bin\Debug\BazaDanych.pdb
+C:\Users\Karolek\Documents\Visual Studio 2017\Projects\BazaDanych\BazaDanych\obj\Debug\BazaDanych.Form1.resources
+C:\Users\Karolek\Documents\Visual Studio 2017\Projects\BazaDanych\BazaDanych\obj\Debug\BazaDanych.Properties.Resources.resources
+C:\Users\Karolek\Documents\Visual Studio 2017\Projects\BazaDanych\BazaDanych\obj\Debug\BazaDanych.csproj.GenerateResource.cache
+C:\Users\Karolek\Documents\Visual Studio 2017\Projects\BazaDanych\BazaDanych\obj\Debug\BazaDanych.csproj.CoreCompileInputs.cache
+C:\Users\Karolek\Documents\Visual Studio 2017\Projects\BazaDanych\BazaDanych\obj\Debug\BazaDanych.exe
+C:\Users\Karolek\Documents\Visual Studio 2017\Projects\BazaDanych\BazaDanych\obj\Debug\BazaDanych.pdb
